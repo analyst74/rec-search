@@ -69,3 +69,19 @@ textarea {
 .fa {
   margin-right: 6px;
 }
+
+// home page
+.search {
+  width: 500px;
+}
+
+table.result {
+  th {
+    padding: 5px;
+  }
+  td {
+    border: 1px solid;
+    overflow: hidden;
+    padding: 5px;
+  }
+}
